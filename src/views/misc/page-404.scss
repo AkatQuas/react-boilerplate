@@ -1,0 +1,31 @@
+.page-404 {
+    text-align: center;
+    margin-top: 1.6rem;
+    .img {
+        margin: .2rem auto;
+        width: 10rem;
+        img {
+            width: 100%;
+        }
+    }
+    .tips {
+        h1 {
+            color: #59a9f0;
+            font-size: 1rem;
+        }
+        h4 {
+            font-size: .8rem;
+            color: #b8b8b8;
+        }
+        p {
+            padding: .1rem 0 0;
+            span {
+                background-color: #60b2f6;
+                color: #fff;
+                padding: .3rem 2.2rem;
+                display: inline-block;
+                border-radius: .2rem;
+            }
+        }
+    }
+}

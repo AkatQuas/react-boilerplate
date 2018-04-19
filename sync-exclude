@@ -1,0 +1,13 @@
+.git/
+.idea/
+.vscode/
+sync*
+README*
+.DS_Store
+
+config/
+scripts/
+snippets/
+
+.gitignore
+upload

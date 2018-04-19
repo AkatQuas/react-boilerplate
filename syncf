@@ -1,0 +1,5 @@
+#! /bin/sh
+
+echo $1
+
+rsync -azv --exclude-from './sync-exclude' ./ $1

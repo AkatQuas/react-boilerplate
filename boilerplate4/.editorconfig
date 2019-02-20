@@ -1,0 +1,15 @@
+root = true
+
+# 对所有文件生效
+[*]
+charset = utf-8
+end_of_line = lf
+indent_style = space
+indent_size = 4
+tab_size = 4
+trim_trailing_whitespace = true
+insert_final_newline = false
+
+# 对后缀名为 md 的文件生效
+[*.md]
+trim_trailing_whitespace = false

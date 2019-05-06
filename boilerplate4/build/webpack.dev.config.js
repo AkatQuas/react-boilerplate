@@ -39,7 +39,8 @@ module.exports = merge(baseConfig, {
         proxy: {
             '/activity': {
                 target: 'dev_proxy_host_todo',
-                secure: false
+                secure: false,
+                // changeOrigin: true,
             }
         },
         clientLogLevel: 'warning',

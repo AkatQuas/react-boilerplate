@@ -8,7 +8,9 @@ Build your own github pages with [i18next](https://www.i18next.com/), [create-re
 
 Here is the [powerful script](scripts/deploy.js) for deploying the static files to Github. Tweak it if necessary.
 
-Compatible with both mobile and desktop browsers, [why](src/utils/rem.js) and [how](src/utils/is-mobile.js). 
+Compatible with both mobile and desktop browsers, [why](src/utils/rem.js) and [how](src/utils/is-mobile.js).
+
+[`husky`](https://github.com/typicode/husky) with [`commitlint`](https://github.com/conventional-changelog/commitlint).
 
 # Development
 
@@ -32,7 +34,7 @@ yarn build
 
 ```bash
 npm run deploy
-# or 
+# or
 yarn deploy
 ```
 

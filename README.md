@@ -26,7 +26,9 @@ A collection of boilerplates for react.
 
   [react-loadable](https://github.com/thejameskyle/react-loadable) for route lazy-load.
 
-  Mannually maintained scripts for building and deploying files with `gh-pages`。
+  Mannually maintained scripts for building and deploying files with `gh-pages`.
+
+  [`husky`](https://github.com/typicode/husky) with [`commitlint`](https://github.com/conventional-changelog/commitlint).
 
 * [boilerplate4](./boilerplate4)
 

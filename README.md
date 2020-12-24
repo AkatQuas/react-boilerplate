@@ -2,6 +2,12 @@
 
 A collection of boilerplates for react.
 
+- [b6-with-tailwind](./b6-with-tailwind)
+
+  Integate React with Tailwind.
+
+  Using `prestart` and `prebuild` scripts in `package.json`.
+
 - [boilerplate1](./boilerplate1)
 
   Simple and naive project using early `create-react-app` tool.
@@ -47,3 +53,9 @@ A collection of boilerplates for react.
   A react boilerplate build with [parcel](https://parceljs.org/).
 
   State management is tackled by `saga`.
+
+## Don't Repeat Yourself
+
+[`useClippy`](https://github.com/CharlesStover/use-clippy): A TypeScript-friendly React hook for reading from and writing to the user's clipboard.
+
+[document-title](https://github.com/rehooks/document-title): React hook for updating the document-title.
